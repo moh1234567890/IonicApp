@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "dronedemoapp",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

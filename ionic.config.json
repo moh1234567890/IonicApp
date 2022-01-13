@@ -1,0 +1,7 @@
+{
+  "name": "dronedemoapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
